@@ -1,0 +1,132 @@
+StoreId,KPI,CurrentValue,PotentialValue,InsertDate,TenantId,ModelRunId,BusinessDate,ExplanatoryMetrics.EncodedName,ExplanatoryMetrics.CurrentValue,ExplanatoryMetrics.PotentialValue,ExplanatoryMetrics.Department,ExplanatoryFeatures.EncodedName,ExplanatoryFeatures.CurrentValue,ExplanatoryFeatures.PotentialValue,ExplanatoryFeatures.Department
+10,YOYWeeklyModel,1.1299999952316284,1.23,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,21013.0,25219.0,,TransactionCountMorningShift,7619.0,8759.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,8662.0,10746.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep1,3208848.38,3948905.66,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,1282659.08,1751834.55,GROCERY-NON TAXABLE
+11,YOYWeeklyModel,1.1100000143051147,1.15,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepSalesAmountAfternoonShift_Dep1,2849057.41,3481183.35,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,14103.0,15499.0,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep1,1200960.28,1322698.12,GROCERY-NON TAXABLE
+12,YOYWeeklyModel,1.0700000524520874,1.07,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,FractionDiscountedLoyaltyTrx,0.04,0.04,,AvgDaysBetweenPurchaseLoyalty,1.3,1.61,
+,,,,,,,,,,,,FractionDiscountedLoyaltyTrx,0.22,0.23,
+14,YOYWeeklyModel,1.1299999952316284,1.29,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,16471.0,22847.0,,TransactionCountMorningShift,5634.0,7619.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3367.0,4901.0,
+,,,,,,,,TransactionCountEveningShift,3948905.66,4628065.91,GROCERY-NON TAXABLE,,,,
+15,YOYWeeklyModel,1.2300000190734863,1.44,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,17515.0,21635.0,,TransactionCountMorningShift,6070.0,7969.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,6966.0,8599.0,
+,,,,,,,,BasketPenetrationCount_Dep0,10.88,11.67,,BasketPenetrationCount_Dep0,4.22,4.4,PRODUCE
+16,YOYWeeklyModel,1.0199999809265137,1.28,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,16701.0,25219.0,,TransactionCountMorningShift,5325.0,8759.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,6956.0,10746.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep0,3675283.92,5179092.85,PRODUCE,DepSalesAmountMorningShift_Dep0,1202872.58,2044678.96,PRODUCE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep0,1586639.72,2737803.22,PRODUCE
+17,YOYWeeklyModel,1.1299999952316284,1.3,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,18908.0,25219.0,,TransactionCountMorningShift,6562.0,8759.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,8126.0,10746.0,
+,,,,,,,,DepTransactionCountAfternoonShift_Dep1,3572692.75,4230357.97,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,16591.0,18502.0,GROCERY-NON TAXABLE
+18,YOYWeeklyModel,1.0299999713897705,1.27,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,15193.0,22847.0,,TransactionCountMorningShift,5047.0,7619.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,6448.0,9500.0,
+,,,,,,,,DepSalesAmountMorningShift_Dep2,2551591.88,3691852.22,Default Department,DepSalesAmountAfternoonShift_Dep2,1108965.81,1660708.31,Default Department
+,,,,,,,,,,,,DepSalesAmountMorningShift_Dep2,821524.25,1005244.13,Default Department
+19,YOYWeeklyModel,1.0399999618530273,1.17,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,21437.0,25219.0,,TransactionCountMorningShift,7555.0,8759.0,
+,,,,,,,,,,,,TransactionCountEveningShift,4318.0,4901.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep2,2382431.35,3691852.22,Default Department,DepSalesAmountMorningShift_Dep2,859657.23,1111875.61,Default Department
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep2,985874.12,1505218.89,Default Department
+2,YOYWeeklyModel,1.0800000429153442,1.25,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountMorningShift,18979.0,25219.0,,TransactionCountMorningShift,6259.0,8759.0,
+,,,,,,,,DepTransactionCountNightShift_Dep0,5179092.85,5995251.09,PRODUCE,DepSalesAmountMorningShift_Dep0,1809288.99,2044678.96,PRODUCE
+,,,,,,,,,,,,DepTransactionCountNightShift_Dep0,1722.0,2489.0,PRODUCE
+20,YOYWeeklyModel,1.059999942779541,1.17,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepSalesAmountAfternoonShift_Dep0,2726032.12,3464122.23,PRODUCE,DepSalesAmountMorningShift_Dep0,884024.54,1225938.68,PRODUCE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep0,1197657.85,1451072.14,PRODUCE
+,,,,,,,,TransactionCountAfternoonShift,19285.0,21635.0,,TransactionCountMorningShift,6362.0,7969.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,7899.0,8599.0,
+21,YOYWeeklyModel,1.0499999523162842,1.1,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DiscountItemsRatio,22847.0,25219.0,,TransactionCountAfternoonShift,9500.0,10746.0,
+,,,,,,,,,,,,DiscountItemsRatio,0.08,0.11,
+,,,,,,,,FractionDiscountedLoyaltyTrx,0.05,0.04,,AvgDaysBetweenPurchaseLoyalty,1.21,1.23,
+,,,,,,,,,,,,FractionDiscountedLoyaltyTrx,0.25,0.26,
+22,YOYWeeklyModel,1.0099999904632568,1.32,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,14992.0,22847.0,,TransactionCountMorningShift,4960.0,7619.0,
+,,,,,,,,,,,,TransactionCountEveningShift,2951.0,4901.0,
+,,,,,,,,DepSalesAmountEveningShift_Dep2,1914901.97,3691852.22,Default Department,DepSalesAmountMorningShift_Dep2,632784.05,1111875.61,Default Department
+,,,,,,,,,,,,DepSalesAmountEveningShift_Dep2,324689.13,772482.04,Default Department
+23,YOYWeeklyModel,1.4299999475479126,1.47,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,15934.0,22236.0,,TransactionCountMorningShift,5391.0,8013.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3316.0,4307.0,
+,,,,,,,,DepTransactionCountAfternoonShift_Dep1,2138249.76,3416519.52,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,894686.2,1490244.32,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepTransactionCountAfternoonShift_Dep1,11099.0,16020.0,GROCERY-NON TAXABLE
+24,YOYWeeklyModel,1.0499999523162842,1.05,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,,,,,,,,
+25,YOYWeeklyModel,1.0,1.11,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,19664.0,22236.0,,TransactionCountMorningShift,6877.0,8013.0,
+,,,,,,,,,,,,TransactionCountEveningShift,4106.0,4307.0,
+26,YOYWeeklyModel,1.1200000047683716,1.18,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,20051.0,22236.0,,TransactionCountMorningShift,6749.0,8013.0,
+,,,,,,,,,,,,TransactionCountEveningShift,4138.0,4307.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep0,3639152.58,4610558.59,PRODUCE,DepSalesAmountMorningShift_Dep0,1180198.07,1510599.09,PRODUCE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep0,1606272.37,1986877.28,PRODUCE
+27,YOYWeeklyModel,1.1399999856948853,1.29,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,17946.0,25219.0,,TransactionCountMorningShift,5943.0,8759.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3601.0,4901.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep1,3390775.24,3948905.66,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,15850.0,17293.0,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep1,1489334.55,1751834.55,GROCERY-NON TAXABLE
+28,YOYWeeklyModel,1.1200000047683716,1.29,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepSalesAmountAfternoonShift_Dep1,3214378.33,3948905.66,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,13468.0,19749.0,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep1,1456099.65,1584543.71,GROCERY-NON TAXABLE
+,,,,,,,,TransactionCountEveningShift,17033.0,25219.0,,TransactionCountAfternoonShift,7632.0,10746.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3482.0,4901.0,
+29,YOYWeeklyModel,1.0700000524520874,1.35,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DiscountItemsRatio,13072.0,21013.0,,TransactionCountEveningShift,2773.0,4238.0,
+,,,,,,,,,,,,DiscountItemsRatio,0.07,0.11,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep1,2312848.13,4628065.91,GROCERY-NON TAXABLE,DepSalesAmountMorningShift_Dep1,621087.02,1177351.83,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep1,1037186.12,1919419.5,GROCERY-NON TAXABLE
+3,YOYWeeklyModel,1.0,1.31,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,10664.0,16214.0,,TransactionCountMorningShift,3607.0,5833.0,
+,,,,,,,,,,,,TransactionCountEveningShift,2360.0,4252.0,
+,,,,,,,,DepTransactionCountMorningShift_Dep2,744157.4,2113408.24,Default Department,DepSalesAmountMorningShift_Dep2,233877.65,734575.28,Default Department
+,,,,,,,,,,,,DepTransactionCountMorningShift_Dep2,4126.0,10233.0,Default Department
+30,YOYWeeklyModel,1.0700000524520874,1.28,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DiscountItemsRatio,10808.0,16214.0,,TransactionCountEveningShift,2590.0,4252.0,
+,,,,,,,,,,,,DiscountItemsRatio,0.05,0.11,
+,,,,,,,,DepSalesAmountMorningShift_Dep1,2251244.09,2849057.41,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,1048343.97,1200960.28,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountMorningShift_Dep1,562948.28,1032490.61,GROCERY-NON TAXABLE
+31,YOYWeeklyModel,1.0499999523162842,1.2,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,16214.0,21635.0,,TransactionCountAfternoonShift,6764.0,8599.0,
+,,,,,,,,,,,,TransactionCountEveningShift,2993.0,4252.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep2,1280494.67,2113408.24,Default Department,DepSalesAmountMorningShift_Dep2,416959.91,734575.28,Default Department
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep2,593283.97,867210.88,Default Department
+32,YOYWeeklyModel,1.100000023841858,1.16,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,19892.0,21635.0,,TransactionCountMorningShift,6517.0,7969.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,8268.0,8599.0,
+33,YOYWeeklyModel,1.100000023841858,1.13,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepSalesAmountAfternoonShift_Dep1,2760075.86,3481183.35,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,12779.0,14103.0,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep1,1092192.9,1322698.12,GROCERY-NON TAXABLE
+34,YOYWeeklyModel,1.0499999523162842,1.35,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,11765.0,21635.0,,TransactionCountEveningShift,2594.0,4252.0,
+,,,,,,,,DepTransactionCountAfternoonShift_Dep1,1510544.56,2849057.41,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,675198.71,1200960.28,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepTransactionCountAfternoonShift_Dep1,8859.0,14103.0,GROCERY-NON TAXABLE
+35,YOYWeeklyModel,1.1100000143051147,1.23,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepTransactionCountAfternoonShift_Dep1,3562670.13,3948905.66,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,16315.0,18502.0,GROCERY-NON TAXABLE
+,,,,,,,,DepSalesAmountAfternoonShift_Dep0,3291890.25,5995251.09,PRODUCE,DepSalesAmountMorningShift_Dep0,1008424.23,1642236.45,PRODUCE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep0,1407530.39,2194867.23,PRODUCE
+36,YOYWeeklyModel,1.149999976158142,1.37,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,16373.0,22847.0,,TransactionCountMorningShift,5116.0,7619.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3777.0,4901.0,
+,,,,,,,,DepTransactionCountMorningShift_Dep1,2805377.62,4890019.66,GROCERY-NON TAXABLE,DepSalesAmountMorningShift_Dep1,819342.06,1177351.83,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepTransactionCountMorningShift_Dep1,8471.0,11877.0,GROCERY-NON TAXABLE
+37,YOYWeeklyModel,1.100000023841858,1.27,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountNightShift,16539.0,21635.0,,TransactionCountMorningShift,5809.0,7969.0,
+,,,,,,,,,,,,TransactionCountNightShift,573.0,815.0,
+,,,,,,,,DepTransactionCountAfternoonShift_Dep1,2032286.5,2849057.41,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,830309.68,1200960.28,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepTransactionCountAfternoonShift_Dep1,11567.0,12527.0,GROCERY-NON TAXABLE
+38,YOYWeeklyModel,1.0800000429153442,1.08,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,,,,,,,,
+39,YOYWeeklyModel,1.1399999856948853,1.29,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,14566.0,21013.0,,TransactionCountMorningShift,4852.0,7619.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,6329.0,8662.0,
+,,,,,,,,DepTransactionCountMorningShift_Dep1,3151705.23,3948905.66,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,13938.0,16591.0,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepTransactionCountMorningShift_Dep1,8929.0,14212.0,GROCERY-NON TAXABLE
+4,YOYWeeklyModel,1.0800000429153442,1.26,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DiscountItemsRatio,16076.0,21635.0,,TransactionCountMorningShift,5563.0,7969.0,
+,,,,,,,,,,,,DiscountItemsRatio,0.06,0.11,
+,,,,,,,,DepSalesAmountMorningShift_Dep1,2018208.76,2849057.41,GROCERY-NON TAXABLE,DepSalesAmountAfternoonShift_Dep1,807111.35,1200960.28,GROCERY-NON TAXABLE
+,,,,,,,,,,,,DepSalesAmountMorningShift_Dep1,638989.49,1032490.61,GROCERY-NON TAXABLE
+40,YOYWeeklyModel,1.059999942779541,1.17,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DiscountItemsRatio,20928.0,25219.0,,TransactionCountEveningShift,4238.0,4901.0,
+,,,,,,,,,,,,DiscountItemsRatio,0.09,0.11,
+41,YOYWeeklyModel,1.149999976158142,1.15,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,,,,,,,,
+42,YOYWeeklyModel,1.1200000047683716,1.37,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,14727.0,21635.0,,TransactionCountMorningShift,4622.0,7969.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,6041.0,8599.0,
+,,,,,,,,DepSalesAmountEveningShift_Dep0,1516587.78,3464122.23,PRODUCE,DepSalesAmountMorningShift_Dep0,475976.17,1185053.01,PRODUCE
+,,,,,,,,,,,,DepSalesAmountEveningShift_Dep0,326320.06,719863.34,PRODUCE
+43,YOYWeeklyModel,1.1200000047683716,1.24,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,15577.0,21013.0,,TransactionCountMorningShift,5171.0,7619.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3128.0,4238.0,
+45,YOYWeeklyModel,1.0700000524520874,1.22,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,DepTransactionCountAfternoonShift_Dep1,2952137.91,3703955.99,GROCERY-NON TAXABLE,DepTransactionCountAfternoonShift_Dep1,14100.0,15099.0,GROCERY-NON TAXABLE
+,,,,,,,,TransactionCountEveningShift,18916.0,22236.0,,TransactionCountMorningShift,6297.0,8013.0,
+,,,,,,,,,,,,TransactionCountEveningShift,4019.0,4307.0,
+46,YOYWeeklyModel,0.0,0.1,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,,,,,,,,
+5,YOYWeeklyModel,1.0800000429153442,1.33,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,16943.0,22847.0,,TransactionCountAfternoonShift,7198.0,9500.0,
+,,,,,,,,,,,,TransactionCountEveningShift,3413.0,4901.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep0,3618725.45,6166598.61,PRODUCE,DepSalesAmountMorningShift_Dep0,1258091.7,2044678.96,PRODUCE
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep0,1520257.89,2438638.07,PRODUCE
+6,YOYWeeklyModel,1.0199999809265137,1.26,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountEveningShift,14268.0,21635.0,,TransactionCountMorningShift,4701.0,7969.0,
+,,,,,,,,,,,,TransactionCountEveningShift,2780.0,4252.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep2,1561721.71,2113408.24,Default Department,DepSalesAmountMorningShift_Dep2,524281.36,734575.28,Default Department
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep2,720287.5,898880.52,Default Department
+7,YOYWeeklyModel,1.9800000190734863,1.74,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,,,,,,,,
+9,YOYWeeklyModel,0.9800000190734863,1.23,2023-09-27 08:56:29.064860,northgate_markets_prod,v2023_09_27_11_55,2023-06-01,TransactionCountAfternoonShift,18232.0,25219.0,,TransactionCountMorningShift,5735.0,8759.0,
+,,,,,,,,,,,,TransactionCountAfternoonShift,7775.0,10746.0,
+,,,,,,,,DepSalesAmountAfternoonShift_Dep2,2984258.47,3767616.93,Default Department,DepSalesAmountMorningShift_Dep2,978738.4,1289954.56,Default Department
+,,,,,,,,,,,,DepSalesAmountAfternoonShift_Dep2,1225154.71,1660708.31,Default Department
